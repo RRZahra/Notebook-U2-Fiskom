@@ -1,4 +1,4 @@
-```python
+```mermaid
 %%mermaid_magic -h 720
 
 flowchart TD
